@@ -1,0 +1,26 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{-fx-background-color: #2a2b2a;}
+
+.label{-fx-text-fill: #fefafe;}
+
+.text-area .content{
+	-fx-background-color: #2a2b2a;
+	-fx-text-fill: #fefafe;
+}
+
+.text-area{
+	-fx-background-color: #2a2b2a;
+	-fx-text-fill: #fefafe;
+}
+.text-area .scroll-pane .viewport{-fx-background-color: transparent;}
+.button {
+	-fx-background-color: #2a2a2a;
+	-fx-border-color: grey;
+	-fx-border-radius: 1mm;
+	-fx-text-fill: #fefafe;
+}
+.button:hover{-fx-background-color:#3f3f3f;}
+.button:pressed {-fx-background-color:grey;}
+.menu-bar{-fx-background-color:#2a2b2a;}
+
